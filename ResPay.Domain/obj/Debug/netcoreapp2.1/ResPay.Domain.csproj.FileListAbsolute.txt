@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Domain.deps.json
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Domain.dll
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Domain.pdb
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Core.dll
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Data.dll
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Core.pdb
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\bin\Debug\netcoreapp2.1\ResPay.Data.pdb
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.csproj.CopyComplete
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.dll
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Domain\obj\Debug\netcoreapp2.1\ResPay.Domain.pdb

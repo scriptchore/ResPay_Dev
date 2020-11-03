@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\bin\Debug\netcoreapp2.1\ResPay.Core.deps.json
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\bin\Debug\netcoreapp2.1\ResPay.Core.dll
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\bin\Debug\netcoreapp2.1\ResPay.Core.pdb
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\obj\Debug\netcoreapp2.1\ResPay.Core.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\obj\Debug\netcoreapp2.1\ResPay.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\obj\Debug\netcoreapp2.1\ResPay.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\obj\Debug\netcoreapp2.1\ResPay.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\obj\Debug\netcoreapp2.1\ResPay.Core.dll
+C:\Users\HP\source\repos\ResPay.Api\ResPay.Core\obj\Debug\netcoreapp2.1\ResPay.Core.pdb
